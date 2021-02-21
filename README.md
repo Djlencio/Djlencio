@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<!--
+[![Email Djlencio](https://img.shields.io/static/v1?label=email&message=lencio97@gmail.com&color=brightgreen)](mailto:lencio97@gmail.com)
+
+<!-- 
 **Djlencio/Djlencio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
