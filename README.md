@@ -16,9 +16,6 @@ TODO:
 ```C
   printf("C")
 ```
-```Kotlin
-  print("Kotlin")
-```
 ```Bash
   echo Bash
 ```
